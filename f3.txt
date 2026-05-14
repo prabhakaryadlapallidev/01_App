@@ -1,2 +1,1 @@
 file f3 is modified
-hi
