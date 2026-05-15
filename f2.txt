@@ -1,4 +1,7 @@
 //task 103
 
 String a="hello world"
-String CityName="vijayawad"
+
+String CityName="vijayawada"
+String collegerName="KlU"
+
