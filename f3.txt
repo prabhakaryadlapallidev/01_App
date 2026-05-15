@@ -1,1 +1,2 @@
 file f3 is modified
+testing for git fetch and merge
