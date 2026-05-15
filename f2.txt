@@ -1,0 +1,6 @@
+this is f2 file
+this is f2 file
+this is f2 file
+
+//comment
+int a=10;
