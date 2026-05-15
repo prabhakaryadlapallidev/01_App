@@ -1,2 +1,6 @@
 file f3 is modified
+
 hi mawa
+
+testing for git fetch and merge
+
