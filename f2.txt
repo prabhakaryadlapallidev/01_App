@@ -4,4 +4,5 @@ String a="hello world"
 
 String CityName="vijayawada"
 String collegerName="KlU"
+int k=20
 
